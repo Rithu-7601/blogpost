@@ -1,3 +1,3 @@
 # blogpost
 sample blogpost
-simple thing.
+used html and css basic
